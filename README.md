@@ -2,14 +2,12 @@
 > Covid 19 detection from chest x-ray using Convolutional Neural Network
 
 ## Introduction
-The rush to identify and treat the novel coronavirus in 2019/2020 had led to a race to develop sophisticated testing methods. One of these methods was using convolutional neural networks (CNN) to quickly analyze chest X-rays for signs of infection from COVID-19. 
-
-CNNs are powerful machine learning models that can detect patterns in images, like those found on X-rays. By training the network on thousands of examples, the model can learn to recognize and classify various features like lungs, bronchi, and other anatomical structures. With this data, the model can then detect abnormalities such as those caused by COVID-19, which can help physicians make a much quicker diagnosis.
-
-But how do we go about training these intricate models? Luckily, it's not as hard as you might think! With the right data, preparation, and training routines, you can quickly have your own CNN up and running to detect COVID-19 in chest X-rays. So don't be afraid to give it a try. With a few clicks, you can have your model up and running.
+Identifying covid through chest x-rays
 
 ## Dataset
+### Getting the dataset
 > I added the dataset used in this project in a zip file in case links below were broken for any reason. However, I recommend you install `git-lfs` in your workflow since it is a large file (1.15gb). [Learn more about LFS here](https://docs.github.com/en/repositories/working-with-files/managing-large-files)
+
 
 - Can get the dataset used in my implementation here: [Dataset](https://1drv.ms/u/s!AkGrCMoO9SmmjeJP0ph634H-GGWpyQ?e=MmZAMp)
 
