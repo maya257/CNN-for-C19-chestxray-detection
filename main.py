@@ -8,6 +8,10 @@ import numpy as np
 from PIL import Image
 from matplotlib import pyplot as plt
 
+"""
+Make sure your device can run CUDA, otherwise you will get an error
+"""
+
 torch.manual_seed(0)
 
 class_names = ['normal', 'viral', 'covid']
