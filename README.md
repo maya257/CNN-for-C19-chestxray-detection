@@ -32,7 +32,7 @@ Identifying covid through chest x-rays
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Need to have CUDA installed: https://developer.nvidia.com/cuda-downloads
 ### Setup
 
 
